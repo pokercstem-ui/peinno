@@ -4,3 +4,4 @@ inference-sdk
 numpy
 aiortc
 streamlit-webrtc
+libgl1
