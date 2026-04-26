@@ -3,3 +3,4 @@ opencv-python-headless
 inference-sdk
 numpy
 aiortc
+streamlit-webrtc
